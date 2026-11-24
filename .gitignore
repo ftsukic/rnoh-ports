@@ -1,0 +1,37 @@
+# JavaScript / React Native
+node_modules/
+.expo/
+coverage/
+**/dist/
+**/lib/
+**/build/
+
+# HarmonyOS / DevEco
+**/oh_modules/
+**/.hvigor/
+**/.cxx/
+**/.preview/
+*.hap
+*.hsp
+*.har
+
+# Android / iOS
+.gradle/
+**/Pods/
+**/DerivedData/
+
+# Local environment and secrets
+.env
+.env.local
+.env.*.local
+*.p12
+*.p8
+*.mobileprovision
+*.keystore
+*.jks
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
